@@ -1,0 +1,13 @@
+body {
+  background-color: lightblue; /* Changes the page background color */
+}
+
+h1 {
+  color: white;           /* Sets the heading text color to white */
+  text-align: center;     /* Centers the heading text */
+}
+
+p {
+  font-family: verdana, sans-serif; /* Sets the font family for paragraphs */
+  font-size: 20px;                  /* Sets the font size in pixels */
+}
